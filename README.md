@@ -8,5 +8,3 @@ Step 2: Setup your database. Find and edit .env file with the following database
     DB_PASSWORD=yourPassword
 Step 3: Open terminal and run the command 'php artisan serve' to run migrations
 Step 4: Run the command 'php artisan serve' to run the project
-
-Below is a link for postman collection -> https://api.postman.com/collections/16483080-f379fa36-01f1-4386-a95f-e93d76313326?access_key=PMAT-01J368HNCRW22YVRHWXWDX3H4A
